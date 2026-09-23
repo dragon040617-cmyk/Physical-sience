@@ -23,3 +23,8 @@
 - Gustafsson J, et al. (2025). Cold- and hot-water immersion are not more effective than placebo… soccer players. *Eur J Appl Physiol*, 125, 3179–3194. https://doi.org/10.1007/s00421-025-05835-w — Tags: Recovery, CWI, Youth
 - Liu J, Li Q, Han Y. (2026). Post-exercise recovery strategies for elite soccer players: network MA. *Front Physiol*, 17, 1760392. https://doi.org/10.3389/fphys.2026.1760392 — Tags: Recovery, Football
 - Veen J, et al. (2026). CWI and post-match recovery in trained soccer players: SR & MA. *Scand J Med Sci Sports*. https://doi.org/10.1111/sms.70202 — Tags: Recovery, CWI, Football
+
+## Monitoring (note: data/2026-09-23_wellness-cmj-monitoring-design.md)
+
+- McLean BD, et al. (2010). Neuromuscular, endocrine, and perceptual fatigue responses during different length between-match microcycles in professional rugby league players. *IJSPP*. [volume/pages unverified] — Tags: Monitoring, Wellness
+- Claudino JG, Cronin J, et al. (2017). The countermovement jump to monitor neuromuscular status: a meta-analysis. *J Sci Med Sport*, 20(4), 397–402. https://pubmed.ncbi.nlm.nih.gov/27663764/ — Tags: Monitoring, CMJ
