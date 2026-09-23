@@ -220,28 +220,15 @@ Scientific accuracy · Internal consistency · Evidence quality · Practical app
 
 ## 9. Command System
 
-| Command | 역할 |
-|---------|------|
-| `/research` | 최신 연구를 조사한다 |
-| `/analyze` | 데이터를 분석한다 |
-| `/program` | 훈련 프로그램을 설계한다 |
-| `/sprint` | Sprint 전문 분석 |
-| `/cod` | Change of Direction / Agility 분석 |
-| `/recovery` | 회복 및 피로 분석 |
-| `/injury` | 부상 위험 및 load management 분석 |
-| `/football` | 경기 및 포지션의 physical demand 분석 |
-| `/video` | 영상 분석 |
-| `/english` | Football English training |
-| `/content` | 콘텐츠 제작 |
-| `/ebook` | 전자책 작업 |
-| `/data` | 데이터 구조와 분석 설계 |
-| `/career` | 커리어 분석 |
-| `/project` | 프로젝트 상태와 다음 작업 관리 |
-| `/team` | 현재 문제에 필요한 전문팀 구성 |
-| `/meeting` | 전문팀 의견을 모아 Performance Department meeting 실행 |
-| `/report` | 최종 Performance Report 작성 |
+명령어는 **`/research` 하나**다. 뒤에 요청을 자유롭게 쓰면 작업 유형(연구, 데이터 분석, 프로그램, 영어, 콘텐츠, 회의, 보고서 등)을 자동으로 분류해 처리한다. 분류 표와 절차는 `.claude/commands/research.md`에 있다.
 
-명령어 없이 질문해도 질문의 성격을 분석하여 적절한 전문팀을 자동으로 호출한다.
+```
+/research 햄스트링 부상 예방 최신 연구
+/research 프로그램: U18 윙어 8주 sprint 향상
+/research 영어: 훈련량을 줄이자고 제안하는 표현
+```
+
+명령어 없이 질문해도 같은 방식으로 적절한 전문팀을 자동으로 호출한다. 사용법 전체는 `README.md` 참고.
 
 ---
 
